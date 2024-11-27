@@ -65,6 +65,8 @@ public class Task2 {
             case 3:
                 result += "справа от лифта, влево";
                 break;
+            default:
+                break;
         }
         return result;
     }
